@@ -1,3 +1,3 @@
-# Machine Learning for Protein-Protein Interaction Prediction
+# Machine learning for predicting protein interactions
 
-This project explores different machine learning approaches to predict protein interactions, including traditional ML models, Neural Networks, and state-of-the-art Transformer architectures. Additionally, it features innovative visualization techniques for protein structures.
+This project explores different machine learning approaches to predict protein interactions, including traditional machine learning models, neural networks, and next-generation Transformer architectures. Additionally, it presents innovative techniques for visualizing protein structures.
