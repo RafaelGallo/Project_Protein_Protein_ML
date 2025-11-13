@@ -1,2 +1,3 @@
-# Project_Protein_Protein_ML
-Projeto machine learning previsão proteína usando modelo ML, Rede Neural, Transformers e visualizações novas proteínas com Transformers 
+# Machine Learning for Protein-Protein Interaction Prediction
+
+This project explores different machine learning approaches to predict protein-protein interactions, including traditional ML models, Neural Networks, and state-of-the-art Transformer architectures. Additionally, it features innovative visualization techniques for protein structures.
